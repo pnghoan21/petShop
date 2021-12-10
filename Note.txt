@@ -1,0 +1,17 @@
+- Nhúng font chữ vào file css
+ /* *{
+  font-family: 'Poppins', sans-serif;
+  margin:0; padding:0;
+  box-sizing: border-box;
+  outline: none; border:none;
+  text-decoration: none;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;} */
+
+- k cần dung class container. có thể sử dụng padding để thay thế padding: 5rem 9%;
+- margin khi sử dụng flex là gap
+- tạo button với clip path circle: tạo ::before với thuộc tính clip path circle(value) và hover: circle(100%)
+
